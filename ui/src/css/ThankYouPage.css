@@ -1,0 +1,118 @@
+@media(min-width: 451px) and (max-width: 819px){
+    .thank-you-page-container{
+        width: 100%;
+        height: 100%;
+        margin-top: 15%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .thank-you-page-title-div{
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .thank-you-page-title{
+        font-family: Comfortaa;
+        font-size: 2rem;
+    }
+    .thank-you-page-background{
+        width: 90%;
+        height: 50vh;
+        background: url("/public/thankpic.jpg") center no-repeat;
+        background-size: 100%;
+        object-fit: fill !important;
+    }
+}
+
+
+@media (min-width: 920px){
+    .thank-you-page-container{
+        width: 100%;
+        height: 100%;
+        margin-top: 15%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .thank-you-page-title-div{
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .thank-you-page-title{
+        font-family: Comfortaa;
+        font-size: 3rem;
+    }
+    .thank-you-page-background{
+        width: 1080px;
+        height: 1080px;
+        background: url("/public/thankpic.jpg") center no-repeat;
+    }
+}
+
+
+@media (min-width: 320px) and (max-width: 450px){
+    .thank-you-page-container{
+        width: 100%;
+        height: 100%;
+        margin-top: 15%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .thank-you-page-title-div{
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .thank-you-page-title{
+        font-family: Comfortaa;
+        font-size: 2rem;
+    }
+    .thank-you-page-background{
+        width: 90%;
+        height: 50vh;
+        background: url("/public/thankpic.jpg") center no-repeat;
+        background-size: 100%;
+        object-fit: fill !important;
+    }
+}
+@media (max-width: 319px){
+    .thank-you-page-container{
+        width: 100%;
+        height: 100%;
+        margin-top: 15%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .thank-you-page-title-div{
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .thank-you-page-title{
+        font-family: Comfortaa;
+        font-size: 2rem;
+    }
+    .thank-you-page-background{
+        width: 90%;
+        height: 50vh;
+        background: url("/public/thankpic.jpg") center no-repeat;
+        background-size: 100%;
+        object-fit: fill !important;
+    }
+}

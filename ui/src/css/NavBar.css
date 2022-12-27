@@ -1,0 +1,19 @@
+
+.app-bar{
+    background: rgba(148, 148, 148,0.3) !important;
+    box-shadow: none !important;
+}
+.toolbar{
+    font-family: Nunito;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    color: rgb(14, 20, 36, 0.8);
+    font-size: 1.4rem;
+    font-weight: bolder;
+}
+.company-name-wrapper {
+    flex-grow: 1;
+    text-decoration: none !important;
+    color: rgb(14, 20, 36, 0.8);
+}

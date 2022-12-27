@@ -1,0 +1,183 @@
+
+@media (min-width: 800px){
+    .license-main-div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 25%;
+        width: 100%;
+        background: linear-gradient(90deg, rgba(141,20,215,1) 0%, rgba(103,9,121,1) 24%, rgba(255,0,211,0.9668461134453782) 100%);
+    }
+    .license-contacts{
+        margin: 3%;
+        font-family: Nunito;
+        font-size: 1rem;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        flex-direction: column;
+
+    }
+    .license-big-text{
+        font-family: Nunito;
+        font-size: 1.3rem;
+        color: #f3f3f3;
+    }
+    .license-text{
+        margin: 2px;
+        font-family: Nunito;
+        font-size: 1rem;
+        color: #f3f3f3;
+    }
+    .license-div-text {
+        font-family: Comfortaa;
+        font-size: 0.8rem;
+        color: #f3f3f3;
+    }
+
+    .license-icon {
+        font-size: small !important;
+    }
+    .license-agreement{
+        margin: 3%;
+        flex-grow: 1;
+        color: #f3f3f3;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 450px){
+    .license-main-div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 25%;
+        width: 100%;
+        background: linear-gradient(90deg, rgba(141,20,215,1) 0%, rgba(103,9,121,1) 24%, rgba(255,0,211,0.9668461134453782) 100%);
+    }
+    .license-contacts{
+        margin: 3%;
+        font-family: Nunito;
+        font-size: 1rem;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        flex-direction: column;
+
+    }
+    .license-big-text{
+        font-family: Nunito;
+        font-size: 1.3rem;
+        color: #f3f3f3;
+    }
+    .license-text{
+        margin: 2px;
+        font-family: Nunito;
+        font-size: 0.8rem;
+        color: #f3f3f3;
+    }
+    .license-div-text {
+        font-family: Comfortaa;
+        font-size: 0.8rem;
+        color: #f3f3f3;
+    }
+    .license-agreement{
+        margin: 3%;
+        flex-grow: 1;
+        color: #f3f3f3;
+    }
+
+    .license-icon {
+        font-size: small !important;
+    }
+}
+
+@media(min-width: 451px) and (max-width: 799px){
+    .license-main-div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 25%;
+        width: 100%;
+        background: linear-gradient(90deg, rgba(141,20,215,1) 0%, rgba(103,9,121,1) 24%, rgba(255,0,211,0.9668461134453782) 100%);
+    }
+    .license-contacts{
+        margin: 3%;
+        font-family: Nunito;
+        font-size: 1rem;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        flex-direction: column;
+
+    }
+    .license-big-text{
+        font-family: Nunito;
+        font-size: 1.3rem;
+        color: #f3f3f3;
+    }
+    .license-text{
+        margin: 2px;
+        font-family: Nunito;
+        font-size: 0.8rem;
+        color: #f3f3f3;
+    }
+    .license-div-text {
+        font-family: Comfortaa;
+        font-size: 0.8rem;
+        color: #f3f3f3;
+    }
+    .license-agreement{
+        margin: 3%;
+        flex-grow: 1;
+        color: #f3f3f3;
+    }
+
+    .license-icon {
+        font-size: small !important;
+    }
+}
+@media (max-width: 319px){
+    .license-main-div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 25%;
+        width: 100%;
+        background: linear-gradient(90deg, rgba(141,20,215,1) 0%, rgba(103,9,121,1) 24%, rgba(255,0,211,0.9668461134453782) 100%);
+    }
+    .license-contacts{
+        margin: 3%;
+        font-family: Nunito;
+        font-size: 1rem;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        flex-direction: column;
+
+    }
+    .license-big-text{
+        font-family: Nunito;
+        font-size: 1.3rem;
+        color: #f3f3f3;
+    }
+    .license-text{
+        margin: 2px;
+        font-family: Nunito;
+        font-size: 0.8rem;
+        color: #f3f3f3;
+    }
+    .license-div-text {
+        font-family: Comfortaa;
+        font-size: 0.8rem;
+        color: #f3f3f3;
+    }
+    .license-agreement{
+        margin: 3%;
+        flex-grow: 1;
+        color: #f3f3f3;
+    }
+
+    .license-icon {
+        font-size: small !important;
+    }
+}

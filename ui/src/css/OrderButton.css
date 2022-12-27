@@ -1,0 +1,41 @@
+/* CSS */
+
+
+
+    .button-73 {
+
+        width: 80%;
+        appearance: none;
+        background: linear-gradient(90deg, rgba(141,20,215,1) 0%, rgba(103,9,121,1) 24%, rgba(255,0,211,0.9668461134453782) 100%);
+        border-radius: 40em;
+        border-style: none;
+        box-shadow: 0 6px 6px rgba(0,0,0,0.3);
+        box-sizing: border-box;
+        color: #fafafa;
+        cursor: pointer;
+        font-family: Nunito;
+        font-size: 1.1rem !important;
+        font-weight: 700;
+        letter-spacing: -.24px;
+        margin: auto;
+        outline: none;
+        padding: 1rem 1.3rem;
+        text-align: center;
+        text-decoration: none;
+        transition: all .15s;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+    }
+
+    .button-73:hover {
+        background: linear-gradient(90deg, rgba(215,20,211,1) 1%, rgba(121,9,61,1) 44%, rgba(255,0,211,0.9668461134453782) 100%);
+        box-shadow: 0 6px 6px rgba(0,0,0,0.5);
+        transform: scale(1.125);
+    }
+
+    .button-73:active {
+        transform: scale(1.025);
+    }
+
+

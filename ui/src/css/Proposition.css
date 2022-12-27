@@ -1,0 +1,190 @@
+
+
+@media (min-width: 800px){
+    .proposition-div {
+        height: 12vh;
+        width: 100%;
+        background: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 5%;
+    }
+
+    .proposition-text {
+        font-family: Nunito;
+        font-weight: bold;
+        font-size: 2rem;
+        color: #282727;
+    }
+
+    .proposition-pic-div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .proposition-photo {
+        margin: 10px;
+        height: 40vh;
+        width: 40vw;
+        background: #2A8387;
+        border-radius: 2px;
+        background: url("https://blogv2new.clickfunnels.com/wp-content/uploads/2021/01/2-How-To-Promote-Products-On-Social-Media.jpg") center no-repeat;
+    }
+
+    .proposition-pic-text {
+        margin: 20px;
+        height: 60vh;
+        width: 45vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Nunito;
+        font-size: 1.1rem;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 450px){
+    .proposition-div {
+        height: 12vh;
+        width: 100%;
+        background: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 5%;
+    }
+
+    .proposition-text {
+        font-family: Nunito;
+        font-weight: bold;
+        font-size: 2rem;
+        color: #282727;
+    }
+
+    .proposition-pic-div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .proposition-photo {
+        margin: 10px;
+        height: 40vh;
+        width: 40vw;
+        background: #2A8387;
+        border-radius: 2px;
+        background-size: 170% !important;
+        object-fit: contain !important;
+        background: url("https://blogv2new.clickfunnels.com/wp-content/uploads/2021/01/2-How-To-Promote-Products-On-Social-Media.jpg") center no-repeat;
+    }
+
+    .proposition-pic-text {
+        margin: 20px;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Nunito;
+        font-size: 1.1rem;
+    }
+}
+
+@media(min-width: 451px) and (max-width: 799px){
+    .proposition-div {
+        height: 12vh;
+        width: 100%;
+        background: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 5%;
+    }
+
+    .proposition-text {
+        font-family: Nunito;
+        font-weight: bold;
+        font-size: 2rem;
+        color: #282727;
+    }
+
+    .proposition-pic-div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .proposition-photo {
+        margin: 10px;
+        height: 40vh;
+        width: 40vw;
+        background: #2A8387;
+        border-radius: 2px;
+        background-size: 170% !important;
+        object-fit: contain !important;
+        background: url("https://blogv2new.clickfunnels.com/wp-content/uploads/2021/01/2-How-To-Promote-Products-On-Social-Media.jpg") center no-repeat;
+    }
+
+    .proposition-pic-text {
+        margin: 20px;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Nunito;
+        font-size: 1.1rem;
+    }
+}
+@media (max-width: 319px){
+    .proposition-div {
+        height: 12vh;
+        width: 100%;
+        background: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 5%;
+    }
+
+    .proposition-text {
+        font-family: Nunito;
+        font-weight: bold;
+        font-size: 2rem;
+        color: #282727;
+    }
+
+    .proposition-pic-div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .proposition-photo {
+        margin: 10px;
+        height: 40vh;
+        width: 40vw;
+        background: #2A8387;
+        border-radius: 2px;
+        background-size: 170% !important;
+        object-fit: contain !important;
+        background: url("https://blogv2new.clickfunnels.com/wp-content/uploads/2021/01/2-How-To-Promote-Products-On-Social-Media.jpg") center no-repeat;
+    }
+
+    .proposition-pic-text {
+        margin: 20px;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Nunito;
+        font-size: 1.1rem;
+    }
+}

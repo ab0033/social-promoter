@@ -1,0 +1,284 @@
+@media (min-width: 920px) {
+    .package-main-div {
+        font-family: Nunito;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .package-title-text {
+        font-family: Nunito;
+        font-weight: bold;
+        font-size: 2rem;
+        color: #f3f3f3;
+    }
+    .package-div-text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .package-title-text2 {
+        font-family: Nunito;
+        font-weight: bold;
+        font-size: 1.8rem;
+        color: #282828;
+    }
+
+    .package-pic-div {
+        height: 30vh;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: url("https://www.internetmatters.org/wp-content/uploads/2022/07/OnlyFans-Logo-1200.png") center no-repeat;
+    }
+
+    .package-main-text {
+        width: 45vw;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.1rem;
+    }
+
+    .package-banner {
+        height: 12vh;
+        width: 100%;
+        background: linear-gradient(90deg, rgba(80, 20, 215, 1) 1%, rgba(98, 9, 121, 1) 28%, rgba(255, 0, 211, 0.9668461134453782) 100%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 5%;
+    }
+
+    .package-banners-div {
+        margin-top: 3%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 450px) {
+
+    .package-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .package-main-div {
+        font-family: Nunito;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .package-title-text {
+        font-family: Comfortaa;
+        font-weight: bold;
+        font-size: 1.6rem;
+        color: #f3f3f3;
+    }
+
+    .package-div-text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .package-title-text2 {
+        font-family: Nunito;
+        font-weight: bold;
+        font-size: 1.4rem;
+        color: #282828;
+    }
+
+    .package-pic-div {
+        height: 30vh;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-size: 100% !important;
+        object-fit: fill;
+        background: url("https://www.internetmatters.org/wp-content/uploads/2022/07/OnlyFans-Logo-1200.png") center no-repeat;
+    }
+
+    .package-main-text {
+        margin: 10px;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.1rem;
+    }
+
+    .package-banner {
+        height: 15%;
+        width: 100%;
+        background: linear-gradient(90deg, rgba(80, 20, 215, 1) 1%, rgba(98, 9, 121, 1) 28%, rgba(255, 0, 211, 0.9668461134453782) 100%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 5%;
+    }
+
+    .package-banners-div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+@media(min-width: 451px) and (max-width: 919px){
+    .package-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .package-main-div {
+        font-family: Nunito;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .package-title-text {
+        font-family: Comfortaa;
+        font-weight: bold;
+        font-size: 1.6rem;
+        color: #f3f3f3;
+    }
+
+    .package-title-text2 {
+        font-family: Nunito;
+        font-weight: bold;
+        font-size: 1.6rem;
+        color: #282828;
+    }
+
+    .package-pic-div {
+        height: 30vh;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-size: 100% !important;
+        object-fit: fill;
+        background: url("https://www.internetmatters.org/wp-content/uploads/2022/07/OnlyFans-Logo-1200.png") center no-repeat;
+    }
+    .package-div-text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .package-main-text {
+        width: 90%;
+        display: flex;
+        justify-content: center !important;
+        align-items: center !important;
+        font-size: 1.4rem;
+    }
+
+    .package-banner {
+        height: 15%;
+        width: 100%;
+        background: linear-gradient(90deg, rgba(80, 20, 215, 1) 1%, rgba(98, 9, 121, 1) 28%, rgba(255, 0, 211, 0.9668461134453782) 100%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 5%;
+    }
+
+    .package-banners-div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+@media (max-width: 319px){
+    .package-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .package-main-div {
+        font-family: Nunito;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .package-title-text {
+        font-family: Comfortaa;
+        font-weight: bold;
+        font-size: 1.3rem;
+        color: #f3f3f3;
+    }
+
+    .package-div-text{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .package-title-text2 {
+        font-family: Nunito;
+        font-weight: bold;
+        font-size: 1.3rem;
+        color: #282828;
+    }
+
+    .package-pic-div {
+        height: 30vh;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-size: 100% !important;
+        object-fit: fill;
+        background: url("https://www.internetmatters.org/wp-content/uploads/2022/07/OnlyFans-Logo-1200.png") center no-repeat;
+    }
+
+    .package-main-text {
+        margin: 10px;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.1rem;
+    }
+
+    .package-banner {
+        height: 15%;
+        width: 100%;
+        background: linear-gradient(90deg, rgba(80, 20, 215, 1) 1%, rgba(98, 9, 121, 1) 28%, rgba(255, 0, 211, 0.9668461134453782) 100%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-top: 5%;
+    }
+
+    .package-banners-div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+}

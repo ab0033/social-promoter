@@ -1,0 +1,205 @@
+@media (min-width: 451px) and (max-width: 819px) {
+    .paypal-wrapper {
+        margin-top: 2%;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .product-info {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: 30vh;
+    }
+
+    .paypal-title {
+        font-family: Comfortaa;
+        font-size: 2rem;
+    }
+
+    .paypal-title2 {
+        font-family: Comfortaa;
+        font-size: 1.5rem;
+    }
+
+    .paypal-span {
+        font-family: Nunito;
+        font-size: 1.5rem;
+    }
+
+    .product-price-btn {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .paypal-buttons {
+        margin-top: 5% !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        flex-direction: column !important;
+    }
+}
+
+
+@media (min-width: 920px) {
+    .paypal-wrapper {
+        margin-top: 2%;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .product-info {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: 30vh;
+    }
+
+    .paypal-title {
+        font-family: Comfortaa;
+        font-size: 2rem;
+    }
+
+    .paypal-title2 {
+        font-family: Comfortaa;
+        font-size: 1.5rem;
+    }
+
+    .paypal-span {
+        font-family: Nunito;
+        font-size: 1.5rem;
+    }
+
+    .product-price-btn {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .paypal-buttons {
+        margin-top: 1% !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        flex-direction: column !important;
+    }
+}
+
+
+@media (min-width: 320px) and (max-width: 450px) {
+    .paypal-wrapper {
+        margin-top: 2%;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .product-info {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: 30vh;
+    }
+
+    .paypal-title {
+        font-family: Comfortaa;
+        font-size: 2rem;
+    }
+
+    .paypal-title2 {
+        font-family: Comfortaa;
+        font-size: 1.5rem;
+    }
+
+    .paypal-span {
+        font-family: Nunito;
+        font-size: 1.5rem;
+    }
+
+    .product-price-btn {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .paypal-buttons {
+        margin-top: 5% !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        flex-direction: column !important;
+    }
+}
+
+@media (max-width: 319px){
+    .paypal-wrapper {
+        margin-top: 2%;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .product-info {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        height: 30vh;
+    }
+
+    .paypal-title {
+        font-family: Comfortaa;
+        font-size: 1.8rem;
+    }
+
+    .paypal-title2 {
+        font-family: Comfortaa;
+        font-size: 1.2rem;
+    }
+
+    .paypal-span {
+        font-family: Nunito;
+        font-size: 1.2rem;
+    }
+
+    .product-price-btn {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .paypal-buttons {
+        margin-top: 10% !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        flex-direction: column !important;
+    }
+}
